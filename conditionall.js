@@ -4,4 +4,5 @@ if (1 != 1){
 	console.log('1 tapi 1 lebih dari 0');//kondisi kedua
 } else {
 	console.log('ambil semua bro')//kondisi terakhir
+	console.log('Brand Baru')
 }
